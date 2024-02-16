@@ -1,0 +1,33 @@
+.botons{
+    background: #e4c00d !important;
+    border-color: #e4c00d;
+    color: black;
+}
+.botons:hover{
+    background: #ffda1f !important;
+    border-color: #ffda1f;
+    color: black;
+}
+.titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #f1cb0c !important;
+}
+.bordercolor{
+    border-color: #debc11 !important;
+}
+.background{
+    background: #ddbd1d !important;
+}
+.color{
+    color: black !important;
+    background-color: white !important;
+}
+.expand:hover{
+    transition: all 110s;
+}
+.letra{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.modales{
+    z-index: 1;
+}

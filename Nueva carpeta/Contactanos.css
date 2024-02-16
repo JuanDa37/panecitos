@@ -1,0 +1,46 @@
+.tipografi{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #e8c816;
+}
+
+.form:focus{
+    transition: all 0.2s ease;
+    border-color: #e3f60c;
+    outline: 1;
+    box-shadow: 0 0 0 0.1rem rgba(229, 255, 0, 0.461);
+}
+.boton{
+    background: #ebeb0f !important;
+    color: black;
+    border: 1px solid black;
+}
+.boton:hover{
+    background: #f9f905 !important;
+    border: 1px solid black;
+}
+.redimension{
+    resize: none !important;
+}
+
+.media{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.ancho{
+    min-width: 400px;
+}
+.claridad:before {
+	content:'';
+	position: absolute;
+        top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0,0,0,0.7);
+}
+.form{
+    position: relative;
+}
+.trigo{
+    min-width: 200px;
+}

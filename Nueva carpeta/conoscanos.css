@@ -1,0 +1,10 @@
+.tipografi{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ecb50f;
+}
+.ancho{
+    min-width: 400px;
+}
+.insignia{
+    min-width: 200px;
+}
